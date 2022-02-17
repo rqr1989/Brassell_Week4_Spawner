@@ -27,8 +27,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1599247993915403421}
-  m_LocalRotation: {x: 0.06405383, y: 0, z: -0.007764101, w: 0.9979163}
-  m_LocalPosition: {x: -4.6248894, y: -0.018715143, z: -12.205948}
+  m_LocalRotation: {x: 0.0019478488, y: 0, z: -0.042852677, w: 0.9990795}
+  m_LocalPosition: {x: 1.4296188, y: -0.09074843, z: -8.06431}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -114,4 +114,3 @@ MonoBehaviour:
   mask:
     serializedVersion: 2
     m_Bits: 0
-  CylinderPrefab: {fileID: 0}
